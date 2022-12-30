@@ -1,5 +1,18 @@
 Have exposure♛ to develop MCAL layer configuration, back-end developer engineer for Volvo💻. 
-
+- 5+ years of experience in Embedded System Development in the Automotive technology and services industry. 
+- Highly skilled in Automotive domain, Embedded C, CAN, SPI, I2C.
+- Well versed with AUTOSAR, BSW, MCAL and DaVinci Vector tools and EB Tresos tool.
+- Expertise in Development and Delivery of AUTOSAR as well as RTOS based Software Solutions.
+- Exposure to work on SDLC.
+- Good working knowledge of the software engineering life cycle including design, development, integration, debugging and testing.
+- Strong interpersonal skills, accountability & ownership. Service attitude with high focus on customer satisfaction.
+- Experienced in working with Agile & Scrum teams.
+- Experience Working with Microcontroller peripherals like ADC, PWM,PORT,DIO etc.
+- Knowledge of Infinieon Aurix TC23x/27x microcontrollers Architecture
+- Ability to read hardware schematics and use of debugging instruments like oscilloscope, logic analysers.
+- Software Resolution of critical issues such as Resets, memory faults and hangs.
+- Experience with low level embedded development tools (i.e. Compilers, assemblers, linkers & debuggers)
+- Rewarded with ERS Champion award in HCL for good performance and being Star of the Sprint.
 Apart from my professional journey, I am a learner📝 and enthusiastic to learn new tech. 
 
 Responsibilities- Developing new user-facing features
