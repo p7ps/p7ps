@@ -1,5 +1,5 @@
-Have exposure♛ to develop MCAL layer configuration, back-end developer engineer for Volvo💻. 
-- 5+ years of experience in Embedded System Development in the Automotive technology and services industry. 
+Have exposure♛ to develop MCAL layer configuration, back-end developer engineer for Audi/VW💻. 
+- 6+ years of experience in Embedded System Development in the Automotive technology and services industry. 
 - Highly skilled in Automotive domain, Embedded C, CAN, SPI, I2C.
 - Well versed with AUTOSAR, BSW, MCAL and DaVinci Vector tools and EB Tresos tool.
 - Expertise in Development and Delivery of AUTOSAR as well as RTOS based Software Solutions.
@@ -20,7 +20,7 @@ Skills- Strong proficiency and ability to understand business requirements and t
 
 Skills: AUTOSAR- MCAL/IoHwAb/CDD developement, GitHub
 
-Also, I play a role as a ECU Integrator/Developement engineer at Volvo apart from my existing role and responsibilities in the project. Getting an opportunity to interact with many people and sharing thoughts out of the box🗃.
+Also, I play a role as a Application SWC Integrator/Developement engineer at my current job. Getting an opportunity to interact with many people and sharing thoughts out of the box🗃.
 
 🙋‍♂️ 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲:
 
